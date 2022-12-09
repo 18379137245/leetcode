@@ -1,4 +1,4 @@
-package algorithm12_01_31.day_12_09.leetcode_1894;
+package algorithm12_01_31.day_12_08.leetcode_1894;
 
 /**
  * @projectName: leetcode

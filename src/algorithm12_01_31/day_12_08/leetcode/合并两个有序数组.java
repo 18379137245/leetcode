@@ -1,7 +1,6 @@
-package algorithm12_01_31.day_12_09.leetcode;
+package algorithm12_01_31.day_12_08.leetcode;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class 合并两个有序数组 {
     public static void main(String[] args) {
